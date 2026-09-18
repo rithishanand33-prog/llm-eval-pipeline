@@ -1,0 +1,18 @@
+[
+  {
+    "id": "p1",
+    "prompt": "Explain what overfitting means in machine learning to someone new to the field."
+  },
+  {
+    "id": "p2",
+    "prompt": "I'm feeling really stressed about a work deadline tomorrow. Any advice?"
+  },
+  {
+    "id": "p3",
+    "prompt": "What's the difference between supervised and unsupervised learning?"
+  },
+  {
+    "id": "p4",
+    "prompt": "Write a short professional email asking my manager for a day off next week."
+  }
+]
